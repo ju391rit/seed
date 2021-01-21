@@ -11,8 +11,7 @@ object alreadySignedUp extends _root_.play.twirl.api.BaseScalaTemplate[play.twir
       {
 
 
-Seq[Any](format.raw/*3.63*/("""
-"""),_display_(/*4.2*/messages("email.already.signed.up.hello", user.name.getOrElse("user"))),format.raw/*4.72*/("""
+Seq[Any](_display_(/*4.2*/messages("email.already.signed.up.hello", user.name.getOrElse("user"))),format.raw/*4.72*/("""
 
 """),_display_(/*6.2*/messages("email.already.signed.up.txt.text", url)),format.raw/*6.51*/("""
 """))
@@ -31,11 +30,11 @@ Seq[Any](format.raw/*3.63*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T11:52:15.986127700
-                  SOURCE: C:/Users/Rudi/Documents/STUDIUM/5.Semester/WT/seed/app/views/emails/alreadySignedUp.scala.txt
-                  HASH: b5b93a160996b65e688b415695df7eb4fcc7afc9
-                  MATRIX: 34->1|395->35|550->96|578->99|668->169|698->174|767->223
-                  LINES: 4->1|9->3|14->3|15->4|15->4|17->6|17->6
+                  DATE: 2021-01-21T12:31:17.960814
+                  SOURCE: /home/lin/slay-auth/app/views/emails/alreadySignedUp.scala.txt
+                  HASH: b7b94630a6ecef5fe587c1e2b31f99c9433baf58
+                  MATRIX: 34->1|395->33|549->96|639->166|667->169|736->218
+                  LINES: 4->1|9->3|14->4|14->4|16->6|16->6
                   -- GENERATED --
               */
           

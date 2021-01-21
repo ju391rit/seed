@@ -28,7 +28,6 @@ class HomeController @Inject()(cc: ControllerComponents) (implicit system: Actor
     controller
   }
 
-
   //wird noch wegrationalisiert durch gekapseltes frontend
   /*
   def about = Action {
@@ -40,6 +39,7 @@ class HomeController @Inject()(cc: ControllerComponents) (implicit system: Actor
   }
   // /wird noch wegrationalisiert
   */
+
   //commands
   def buy(coord: String) = Action {
     processInput("buy " + coord, gameController)

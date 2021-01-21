@@ -11,8 +11,7 @@ object activateAccount extends _root_.play.twirl.api.BaseScalaTemplate[play.twir
       {
 
 
-Seq[Any](format.raw/*3.63*/("""
-"""),_display_(/*4.2*/messages("email.activate.account.hello", user.name.getOrElse("user"))),format.raw/*4.71*/("""
+Seq[Any](_display_(/*4.2*/messages("email.activate.account.hello", user.name.getOrElse("user"))),format.raw/*4.71*/("""
 
 """),_display_(/*6.2*/messages("email.activate.account.txt.text", url)),format.raw/*6.50*/("""
 """))
@@ -31,11 +30,11 @@ Seq[Any](format.raw/*3.63*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T11:52:15.952128
-                  SOURCE: C:/Users/Rudi/Documents/STUDIUM/5.Semester/WT/seed/app/views/emails/activateAccount.scala.txt
-                  HASH: 0426897a1d57113c5d8e5eeb080ee6e1cee783ae
-                  MATRIX: 34->1|395->35|550->96|578->99|667->168|697->173|765->221
-                  LINES: 4->1|9->3|14->3|15->4|15->4|17->6|17->6
+                  DATE: 2021-01-21T12:31:17.968096
+                  SOURCE: /home/lin/slay-auth/app/views/emails/activateAccount.scala.txt
+                  HASH: e0eedfa60f45f1c06fd86c261d667b29651aed14
+                  MATRIX: 34->1|395->33|549->96|638->165|666->168|734->216
+                  LINES: 4->1|9->3|14->4|14->4|16->6|16->6
                   -- GENERATED --
               */
           

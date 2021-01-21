@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:C:/Users/Rudi/Documents/STUDIUM/5.Semester/WT/seed/conf/routes
-// @DATE:Thu Jan 21 11:52:15 CET 2021
+// @SOURCE:/home/lin/slay-auth/conf/routes
+// @DATE:Thu Jan 21 12:31:17 CET 2021
 
 package router
 
