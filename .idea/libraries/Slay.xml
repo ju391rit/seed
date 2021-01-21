@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Slay">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Slay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

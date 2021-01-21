@@ -1,0 +1,6 @@
+[debug] Copy resource mappings: 
+[debug] 	(/home/lin/slay-auth/conf/silhouette.conf,/home/lin/slay-auth/target/scala-2.13/classes/silhouette.conf)
+[debug] 	(/home/lin/slay-auth/conf/messages,/home/lin/slay-auth/target/scala-2.13/classes/messages)
+[debug] 	(/home/lin/slay-auth/conf/application.conf,/home/lin/slay-auth/target/scala-2.13/classes/application.conf)
+[debug] 	(/home/lin/slay-auth/conf/routes,/home/lin/slay-auth/target/scala-2.13/classes/routes)
+[debug] 	(/home/lin/slay-auth/conf/application.prod.conf,/home/lin/slay-auth/target/scala-2.13/classes/application.prod.conf)

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.mohiva:play-silhouette-crypto-jca_2.13:6.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/mohiva/play-silhouette-crypto-jca_2.13/6.1.1/play-silhouette-crypto-jca_2.13-6.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/mohiva/play-silhouette-crypto-jca_2.13/6.1.1/play-silhouette-crypto-jca_2.13-6.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/mohiva/play-silhouette-crypto-jca_2.13/6.1.1/play-silhouette-crypto-jca_2.13-6.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

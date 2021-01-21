@@ -1,0 +1,76 @@
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:5:8: not found: object de
+[error] import de.htwg.se.slay.SlayModule
+[error]        ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:6:8: not found: object de
+[error] import de.htwg.se.slay.controller.controllerComponent._
+[error]        ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:7:8: not found: object de
+[error] import de.htwg.se.slay.model.fileIOComponent.fileIoJSONimpl.FileIO
+[error]        ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:8:8: not found: object de
+[error] import de.htwg.se.slay.util.Observer
+[error]        ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:17:20: not found: type FileIO
+[error]   val jsonIO = new FileIO
+[error]                    ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:18:53: not found: type SlayModule
+[error]   val injector: Injector = Guice.createInjector(new SlayModule)
+[error]                                                     ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:22:25: not found: type ControllerInterface
+[error]   def newGameInstance():ControllerInterface = {
+[error]                         ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:23:21: not found: type ControllerInterface
+[error]     val controller: ControllerInterface = injector.getInstance(classOf[ControllerInterface])
+[error]                     ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:23:72: not found: type ControllerInterface
+[error]     val controller: ControllerInterface = injector.getInstance(classOf[ControllerInterface])
+[error]                                                                        ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:162:47: not found: type ControllerInterface
+[error]   def processInput(input: String, controller: ControllerInterface): Unit = {
+[error]                                               ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:125:60: not found: type Observer
+[error]   class MyWebSocketActor(out: ActorRef) extends Actor with Observer {
+[error]                                                            ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:133:22: not found: type FileIO
+[error]     val jsonIO = new FileIO
+[error]                      ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:134:28: not found: type Event
+[error]     override def update(e: Event): Boolean = {
+[error]                            ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:136:17: not found: type SuccessEvent
+[error]         case _: SuccessEvent => out ! jsonIO.gridToJson(gameController.grid, gameController.players).toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:137:17: not found: type MoneyErrorEvent
+[error]         case _: MoneyErrorEvent => out ! Json.obj( "message" -> "Not enough Money!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:138:17: not found: type BalanceEvent
+[error]         case b: BalanceEvent =>
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:141:17: not found: type OwnerErrorEvent
+[error]         case _: OwnerErrorEvent => out ! Json.obj( "message" -> "You are not the Owner of this!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:142:17: not found: type GamePieceErrorEvent
+[error]         case _: GamePieceErrorEvent => out ! Json.obj( "message" -> "There already is a GamePiece there!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:143:17: not found: type CombineErrorEvent
+[error]         case _: CombineErrorEvent => out ! Json.obj( "message" -> "Can't combine those Units!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:144:17: not found: type MoveErrorEvent
+[error]         case m: MoveErrorEvent =>
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:147:17: not found: type MovableErrorEvent
+[error]         case _: MovableErrorEvent => out ! Json.obj( "message" -> "This Unit is not movable!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:148:17: not found: type MovedErrorEvent
+[error]         case _: MovedErrorEvent => out ! Json.obj( "message" -> "This Unit has already moved this turn!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:149:17: not found: type UndoErrorEvent
+[error]         case _: UndoErrorEvent => out ! Json.obj( "message" -> "Nothing to undo!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:150:17: not found: type RedoErrorEvent
+[error]         case _: RedoErrorEvent => out ! Json.obj( "message" -> "Nothing to redo!").toString(); true
+[error]                 ^
+[error] /home/lin/slay-auth/app/controllers/HomeController.scala:151:17: not found: type PlayerEvent
+[error]         case _: PlayerEvent =>
+[error]                 ^
+[error] 25 errors found
