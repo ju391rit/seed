@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="slay-auth_9296" />
-    <profile name="sbt 2" modules="play-silhouette-seed">
+    <profile name="sbt 2" modules="play-silhouette-seed,slay-webect-htwg2020">
       <option name="deprecationWarnings" value="true" />
       <option name="uncheckedWarnings" value="true" />
       <option name="featureWarnings" value="true" />

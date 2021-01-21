@@ -25,6 +25,13 @@
             </ProjectSettingsEntry>
           </value>
         </entry>
+        <entry key="slay-webect-htwg2020">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/typesafe/play/play_2.13/2.8.0/play_2.13-2.8.0.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/play-silhouette-seed.iml" filepath="$PROJECT_DIR$/.idea/modules/play-silhouette-seed.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/play-silhouette-seed-build.iml" filepath="$PROJECT_DIR$/.idea/modules/play-silhouette-seed-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/slay-webect-htwg2020.iml" filepath="$PROJECT_DIR$/.idea/modules/slay-webect-htwg2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/slay-webect-htwg2020-build.iml" filepath="$PROJECT_DIR$/.idea/modules/slay-webect-htwg2020-build.iml" />
     </modules>
   </component>
 </project>
