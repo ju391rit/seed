@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/lin/slay-auth/project/"), "slay-auth-build")...
-[debug] Done updating ProjectRef(uri("file:/home/lin/slay-auth/project/"), "slay-auth-build")
+[debug] Updating ProjectRef(uri("file:/C:/Users/Rudi/Documents/STUDIUM/5.Semester/WT/seed/project/"), "seed-build")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/Rudi/Documents/STUDIUM/5.Semester/WT/seed/project/"), "seed-build")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

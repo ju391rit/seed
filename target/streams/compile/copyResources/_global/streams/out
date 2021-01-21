@@ -1,6 +1,6 @@
 [debug] Copy resource mappings: 
-[debug] 	(/home/lin/slay-auth/conf/silhouette.conf,/home/lin/slay-auth/target/scala-2.13/classes/silhouette.conf)
-[debug] 	(/home/lin/slay-auth/conf/messages,/home/lin/slay-auth/target/scala-2.13/classes/messages)
-[debug] 	(/home/lin/slay-auth/conf/application.conf,/home/lin/slay-auth/target/scala-2.13/classes/application.conf)
-[debug] 	(/home/lin/slay-auth/conf/routes,/home/lin/slay-auth/target/scala-2.13/classes/routes)
-[debug] 	(/home/lin/slay-auth/conf/application.prod.conf,/home/lin/slay-auth/target/scala-2.13/classes/application.prod.conf)
+[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\application.conf,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\application.prod.conf,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\application.prod.conf)
+[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\messages,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\messages)
+[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\routes,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\routes)
+[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\silhouette.conf,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\silhouette.conf)

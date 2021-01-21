@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/lin/slay-auth/conf/routes
-// @DATE:Thu Jan 21 09:35:21 CET 2021
+// @SOURCE:C:/Users/Rudi/Documents/STUDIUM/5.Semester/WT/seed/conf/routes
+// @DATE:Thu Jan 21 11:52:15 CET 2021
 
 import play.api.routing.JavaScriptReverseRoute
 

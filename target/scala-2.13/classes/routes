@@ -32,6 +32,24 @@ POST        /password/change                 controllers.ChangePasswordControlle
 GET         /account/email/:email            controllers.ActivateAccountController.send(email: String)
 GET         /account/activate/:token         controllers.ActivateAccountController.activate(token: java.util.UUID)
 
+# Controller for Slay
+
+#GET     /                           controllers.HomeController.slay
+#GET     /about                      controllers.HomeController.about
+GET     /websocket                  controllers.HomeController.socket
+# Map static resources from the /public folder to the /assets URL path
+#GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+GET     /buy/:coord                 controllers.HomeController.buy(coord: String)
+GET     /mov/:coord1/:coord2        controllers.HomeController.mov(coord1: String, coord2: String)
+GET     /cmb/:coord1/:coord2        controllers.HomeController.cmb(coord1: String, coord2: String)
+GET     /plc/:coord                 controllers.HomeController.plc(coord: String)
+GET     /bal/:coord                 controllers.HomeController.bal(coord: String)
+GET     /undo                       controllers.HomeController.undo
+GET     /redo                       controllers.HomeController.redo
+GET     /end                        controllers.HomeController.end
+GET     /ff20                       controllers.HomeController.surrender
+GET     /json                       controllers.HomeController.getJson
+
 # Map static resources from the /public folder to the /assets URL path
 GET         /assets/*file                    controllers.Assets.versioned(file)
 ->          /webjars                         webjars.Routes
