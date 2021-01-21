@@ -1,6 +1,6 @@
 [debug] Copy resource mappings: 
-[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\application.conf,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\application.conf)
-[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\application.prod.conf,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\application.prod.conf)
-[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\messages,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\messages)
-[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\routes,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\routes)
-[debug] 	(C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\conf\silhouette.conf,C:\Users\Rudi\Documents\STUDIUM\5.Semester\WT\seed\target\scala-2.13\classes\silhouette.conf)
+[debug] 	(/home/lin/seed/conf/silhouette.conf,/home/lin/seed/target/scala-2.13/classes/silhouette.conf)
+[debug] 	(/home/lin/seed/conf/messages,/home/lin/seed/target/scala-2.13/classes/messages)
+[debug] 	(/home/lin/seed/conf/application.conf,/home/lin/seed/target/scala-2.13/classes/application.conf)
+[debug] 	(/home/lin/seed/conf/routes,/home/lin/seed/target/scala-2.13/classes/routes)
+[debug] 	(/home/lin/seed/conf/application.prod.conf,/home/lin/seed/target/scala-2.13/classes/application.prod.conf)

@@ -30,8 +30,8 @@ Seq[Any](_display_(/*4.2*/messages("email.reset.password.hello", user.name.getOr
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T12:31:17.952582
-                  SOURCE: /home/lin/slay-auth/app/views/emails/resetPassword.scala.txt
+                  DATE: 2021-01-21T14:45:48.557431
+                  SOURCE: /home/lin/seed/app/views/emails/resetPassword.scala.txt
                   HASH: 20e040ce32e5d1d63dcf02402aef41c710d1b8db
                   MATRIX: 34->1|393->33|547->96|634->163|662->166|728->212
                   LINES: 4->1|9->3|14->4|14->4|16->6|16->6

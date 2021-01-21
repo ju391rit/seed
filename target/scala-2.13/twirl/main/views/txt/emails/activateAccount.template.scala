@@ -30,8 +30,8 @@ Seq[Any](_display_(/*4.2*/messages("email.activate.account.hello", user.name.get
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T12:31:17.968096
-                  SOURCE: /home/lin/slay-auth/app/views/emails/activateAccount.scala.txt
+                  DATE: 2021-01-21T14:45:48.576844
+                  SOURCE: /home/lin/seed/app/views/emails/activateAccount.scala.txt
                   HASH: e0eedfa60f45f1c06fd86c261d667b29651aed14
                   MATRIX: 34->1|395->33|549->96|638->165|666->168|734->216
                   LINES: 4->1|9->3|14->4|14->4|16->6|16->6

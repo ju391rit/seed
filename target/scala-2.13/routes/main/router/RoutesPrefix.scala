@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/lin/slay-auth/conf/routes
-// @DATE:Thu Jan 21 12:31:17 CET 2021
+// @SOURCE:/home/lin/seed/conf/routes
+// @DATE:Thu Jan 21 14:45:48 CET 2021
 
 
 package router {

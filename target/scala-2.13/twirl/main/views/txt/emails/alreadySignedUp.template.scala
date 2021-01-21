@@ -30,8 +30,8 @@ Seq[Any](_display_(/*4.2*/messages("email.already.signed.up.hello", user.name.ge
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T12:31:17.960814
-                  SOURCE: /home/lin/slay-auth/app/views/emails/alreadySignedUp.scala.txt
+                  DATE: 2021-01-21T14:45:48.567426
+                  SOURCE: /home/lin/seed/app/views/emails/alreadySignedUp.scala.txt
                   HASH: b7b94630a6ecef5fe587c1e2b31f99c9433baf58
                   MATRIX: 34->1|395->33|549->96|639->166|667->169|736->218
                   LINES: 4->1|9->3|14->4|14->4|16->6|16->6

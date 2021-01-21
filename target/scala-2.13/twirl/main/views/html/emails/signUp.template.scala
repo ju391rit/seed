@@ -35,8 +35,8 @@ Seq[Any](format.raw/*5.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T12:31:17.957093
-                  SOURCE: /home/lin/slay-auth/app/views/emails/signUp.scala.html
+                  DATE: 2021-01-21T14:45:48.562474
+                  SOURCE: /home/lin/seed/app/views/emails/signUp.scala.html
                   HASH: 819cb42731ca75a8966c25b1d27e9ee9013c4663
                   MATRIX: 35->1|72->32|425->61|580->123|607->124|663->154|743->214|786->231|852->277
                   LINES: 4->1|5->2|10->4|15->5|16->6|18->8|18->8|19->9|19->9
