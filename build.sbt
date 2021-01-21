@@ -2,9 +2,11 @@ import com.typesafe.sbt.SbtScalariform._
 
 import scalariform.formatter.preferences._
 
-name := "play-silhouette-seed"
+name := "slay-webect-htwg2020"
 
 version := "6.0.0"
+
+herokuAppName in Compile := "ancient-savannah-40407"
 
 scalaVersion := "2.13.1"
 
