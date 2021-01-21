@@ -35,7 +35,7 @@ Seq[Any](format.raw/*5.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T14:45:48.552267
+                  DATE: 2021-01-21T15:18:16.398711
                   SOURCE: /home/lin/seed/app/views/emails/activateAccount.scala.html
                   HASH: 262b54a39d94bdde717d74f5f4932696e772dc30
                   MATRIX: 35->1|72->32|434->61|589->123|616->124|672->154|761->223|804->240|879->295

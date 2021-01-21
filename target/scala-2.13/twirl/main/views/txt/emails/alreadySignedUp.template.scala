@@ -30,7 +30,7 @@ Seq[Any](_display_(/*4.2*/messages("email.already.signed.up.hello", user.name.ge
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T14:45:48.567426
+                  DATE: 2021-01-21T15:18:16.406561
                   SOURCE: /home/lin/seed/app/views/emails/alreadySignedUp.scala.txt
                   HASH: b7b94630a6ecef5fe587c1e2b31f99c9433baf58
                   MATRIX: 34->1|395->33|549->96|639->166|667->169|736->218

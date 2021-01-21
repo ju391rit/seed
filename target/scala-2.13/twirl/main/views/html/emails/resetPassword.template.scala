@@ -35,7 +35,7 @@ Seq[Any](format.raw/*5.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T14:45:48.581325
+                  DATE: 2021-01-21T15:18:16.413948
                   SOURCE: /home/lin/seed/app/views/emails/resetPassword.scala.html
                   HASH: 81b9291d5fdac7c17a599b4bb3b16ede68dd57bf
                   MATRIX: 35->1|72->32|432->61|587->123|614->124|670->154|757->221|800->238|873->291

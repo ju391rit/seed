@@ -37,7 +37,7 @@ Seq[Any](format.raw/*5.1*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2021-01-21T14:45:48.502474
+                  DATE: 2021-01-21T15:18:16.372768
                   SOURCE: /home/lin/seed/app/views/passwordStrength.scala.html
                   HASH: d57de1747e4c5eb8cbfab7657db7062b614382b5
                   MATRIX: 28->1|62->29|464->69|635->156|667->180|734->154|762->218|790->220|828->233|837->235|917->295|948->299

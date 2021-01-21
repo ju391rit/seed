@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:/home/lin/seed/conf/routes
-// @DATE:Thu Jan 21 14:45:48 CET 2021
+// @DATE:Thu Jan 21 15:18:16 CET 2021
 
 package router
 
