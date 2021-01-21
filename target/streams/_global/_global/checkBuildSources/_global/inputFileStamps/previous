@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/lin/slay-auth/build.sbt","29097f522c92b0e909e60f8d9a2665e6bf99e34f"],["/home/lin/slay-auth/project/plugins.sbt","b7b451bad692ed6e1881cc82645aceb9cb855b6a"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/lin/seed/build.sbt","29097f522c92b0e909e60f8d9a2665e6bf99e34f"],["/home/lin/seed/project/plugins.sbt","4191873a0e122919d75dbdaf264a8de51c9f83e6"]],"lastModifiedTimes":[]}]
